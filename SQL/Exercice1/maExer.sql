@@ -1,0 +1,8 @@
+ CREATE DATABASE test;
+ USE test;
+ CREATE TABLE roles (
+	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    createdAt DATETIME ,
+    lable VARCHAR(100)
+
+);
