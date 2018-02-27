@@ -1,3 +1,4 @@
+{\rtf1}
 <?php
 $password;
 $salt;
