@@ -1,5 +1,5 @@
 <?php
-
+Namespace Angle;
 function getVectorAngle($vectorA, $vectorB) {
    
     $pi=pi();
