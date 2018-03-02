@@ -1,22 +1,22 @@
 <?php
 
-$booleanTrue;
-$booleanFalse;
+$booleanTrue = true;
+$booleanFalse = false;
 
-$int;
+$int = 5;
 
-$float;
+$float = 1.5;
 
-$integer;
+$integer = -12;
 
-$double;
+$double = 1.3;
 
-$string;
+$string = "hi";
 
-$array;
+$array=[12,"hello"];
 
-$doubleDimenssionArray;
+$doubleDimenssionArray=[    'panama' => [9.0817275, -79.5932209],    'luxembourg' => [49.6076553, 6.1008508]] ;
 
-$associativeArray;
+$associativeArray=[9.0817275, -79.5932209];
 
-$null;
+$null= null;
