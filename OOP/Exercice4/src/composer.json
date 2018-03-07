@@ -1,0 +1,22 @@
+{
+    "name": "etudiant/exercice4",
+    "description": "my first package",
+    "type": "project",
+    "require": {
+        "symfony/security": "^4.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rezareza58",
+            "email": "danielmartafernandes@gmail.com"
+        }
+    ],
+    "autoload":{
+	    "psr-4":{
+	    	"":"",
+	    	"Model\\": "Model/",
+	    	"Exception\\": "Exception/"
+	    }
+    }
+}
