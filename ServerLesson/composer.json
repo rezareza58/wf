@@ -1,0 +1,19 @@
+{
+    "name": "etudiant/server-lesson",
+    "description": "reza",
+    "type": "mit",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rezareza58",
+            "email": "danielmartafernandes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"":"src/"
+    	}
+    }
+}
